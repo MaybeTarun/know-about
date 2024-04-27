@@ -1,0 +1,26 @@
+{
+  "name": "know-about",
+  "version": "1.0.0",
+  "description": "your own (chotu sa) portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "know-about": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaybeTarun/know-about.git"
+  },
+  "keywords": [
+    "about",
+    "know about"
+  ],
+  "author": "Tarun Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaybeTarun/who-is/issues"
+  },
+  "homepage": "https://github.com/MaybeTarun/who-is#readme"
+}
