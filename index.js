@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-const tarun = require('tarun.js');
+const tarun = require('./tarun');
 
 const command = process.argv[2];
 
