@@ -12,5 +12,4 @@ function tarun() {
     console.log('Always looking forward to connect with people, learn new stuff and just grow.');
     console.log(links);
 }
-// module.exports = tarun;
-tarun();
+module.exports = tarun;
