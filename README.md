@@ -2,3 +2,5 @@ Try running the command ```npx know-about tarun``` in your terminal (ensure you 
 
 Like what you see? 
 Follow me on [twitter](https://twitter.com/MaybeTarun) and DM me ur details. I will create one for u too ;)
+
+or u can create on ur own i made ir opensource 
